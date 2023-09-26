@@ -76,17 +76,20 @@ For clarity, the initial emission schedule is as follows, numbers are rounded fo
 |5|94.0B|17.8B|
 |6|111.9B|17.8B|
 |7|129.8B|15.1B|
+|.|...|...|
+|17|249.0B|6.7B|
 ​
 *_ 2.5B pre-mine
 ​
 ​
 ## Token allocation
 ​
-|Year|Entity|Allocation|Type|
-|---|---|---|---|
-|1|Dabba Inc, Dabba Foundation & Investors|40%|Ongoing|
-|2|Ecosystem|60%|Ongoing|
-|3|Pre-mine for operations fund|1%|One time|
+|Year|Entity|Allocation|
+|---|---|---|
+|1|Dabba Inc, Dabba Foundation & Investors|40%|
+|2|Ecosystem|60%|
+​
+​
 ​
 ## Ecosystem token distribution
 ​
@@ -111,8 +114,8 @@ For clarity, the initial emission schedule is as follows, numbers are rounded fo
 ​
 |Entity|Distribution|
 |---|---|
-|**1 Data credit**|1GB|
-|**Fixed price** ($)|0.012|
+|**1 Data credit**|1MB|
+|**Fixed price** ($)|0.000012|
 ​
 ​
 ## Governance structure
