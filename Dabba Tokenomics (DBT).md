@@ -1,37 +1,36 @@
-
 ## Introduction
-
+​
 The Dabba network uses a token incentivized protocol with the objective of driving capital into decentralised connectivity projects. **The network’s success hinges on its capacity to provide reliable, fast, and cost-effective connectivity through its decentralised Dabba installations**, thereby positively impacting the lives of millions while promoting community ownership of the connectivity infrastructure.
-
-
+​
+​
 ![[virtous-square.jpg]]
-
-
+​
+​
 ## Elements of the network
-
+​
 |Hardware|Role|
 |---|---|
 |**Dabba lite**|Low cost public wifi hotspot|
 |**Dabba Pro**|Validator node & powerful multi-token mining device|
 |**Dabba Token**|Mechanism to transact, reward and coordinate stakeholders|
-
+​
 ## Deployment of the network
-
+​
 |Hardware|Role|
 |---|---|
 |**Managed by Dabba**|Deployed and managed in India by Dabba for you|
 |**Self deployment**|Shipped to you to deploy anywhere yourself|
-
+​
 ## Key metrics
-
+​
 |Metric|Info|
 |---|---|
 |**Dabbas deployed**|Number of hotspots deployed should always grow|
 |**Data consumed**|Amount of data consumption should always rise|
-
-
+​
+​
 ## Ecosystem stakeholders
-
+​
 |Entity|Role|
 |---|---|
 |[**Dabba Inc**](https://www.dabba.com)|The first builder of Dabba hardware, software & deployment|
@@ -45,14 +44,14 @@ The Dabba network uses a token incentivized protocol with the objective of drivi
 |**Dao**|Responsible for governance of Dabba network|
 |**Validator**|One who operates a validator node|
 |**Staker**|One who is staking tokens|
-
-
+​
+​
 ## Token supply
-
+​
 There will be a max supply of **250B DBT**. 
-
+​
 We propose that 1% of total supply or 2.5B DBT are pre-mined at the launch of the network and distributed to the operations fund administered by the Dabba Foundation. Some fraction of this allocation is distributed over the course of the genesis period to live Dabbas on an epochal basis (akin to universal basic income). 
-
+​
 |No.|Item|Amount|
 |---|---|---|
 |1|Max supply|250B|
@@ -62,32 +61,33 @@ We propose that 1% of total supply or 2.5B DBT are pre-mined at the launch of th
 |5|Decaying emissions|15% lower every 2 years|
 |6|Lockup for Dabba Inc & investors|2 years, daily vest|
 |7|Lockup for genesis period|6 months|
-
-For clarity, the initial emission schedule is as follows, numbers are rounded for simplicity:
-
+|8|Mint start date|Nov 1, 2023|
+​
+For clarity, the initial emission schedule is as follows, numbers are rounded for simplicity, a detailed sheet will be shared shortly:
+​
 |Year|DBT at year start|DBT minted|
 |---|---|---|
-|1|2.5B*|24B|
-|2|27B|24B|
-|3|52B|21B|
-|4|73B|21B|
-|5|94B|17B|
-|6|111B|17B|
-|7|129B|15B|
-
+|1|2.5B*|24.7B|
+|2|27.2B|24.7B|
+|3|52.0B|21.0B|
+|4|73.0B|21.0B|
+|5|94.0B|17.8B|
+|6|111.9B|17.8B|
+|7|129.8B|15.1B|
+​
 *_ 2.5B pre-mine
-
-
+​
+​
 ## Token allocation
-
+​
 |Year|Entity|Allocation|Type|
 |---|---|---|---|
 |1|Dabba Inc, Dabba Foundation & Investors|40%|Ongoing|
 |2|Ecosystem|60%|Ongoing|
 |3|Pre-mine for operations fund|1%|One time|
-
+​
 ## Ecosystem token distribution
-
+​
 |Entity|Distribution|Info|
 |---|---|---|
 |**Host**|5%|Reward for providing permission of physical location for installation|
@@ -96,28 +96,27 @@ For clarity, the initial emission schedule is as follows, numbers are rounded fo
 |**Mapper**|2%|Rewards for mapping the network|
 |**Validator**|4%|Rewards for verifying network transactions|
 |**Stakers**|5%|Rewards for staking|
-
-
-|Bucket|Share|
-|---|---|
-|**Proof of coverage (UBI)**|30%|
-|**Data consumption**|70%|
-
-Weighted rewards will be implemented for Data consumption during the genesis period.
-
-
+​
+###### 64% Owner allocation is further subdivided into two buckets
+​
+|Bucket|Share|Info| 
+|---|---|---|
+|**Proof of coverage (UBI)**|30%|Shared equally|
+|**Data consumption**|70%|Weighted pro-rata according to hotspot data consumption|
+​
+​
 ## Data credit specification
-
+​
 |Entity|Distribution|
 |---|---|
 |**1 Data credit**|1GB|
 |**Fixed price** ($)|0.012|
-
-
+​
+​
 ## Governance structure
-
-A user’s voting power is determined by 1) the amount of DBT they lock up with, and 2) the amount of time they commit to locking up their DBT. The structure applies a linear multiplier of time to the amount of DBT locked up in the voting contract. For the maximum amount of four years, users receive 80x the veDBT. For the minimum amount of a six month lockup, users receive 1x the veDBT. Note that veDBT is fully non-transferable.
-
+​
+A user’s voting power is determined by 1) the amount of DBT they lock up with, and 2) the amount of time they commit to locking up their DBT. The structure applies a linear multiplier of time to the amount of DBT locked up in the voting contract. For the maximum amount of four years, users receive 80x the veDBT. For the minimum amount of a six month lockup, users receive 1x the veDBT. Note that veDBT is fully non-transferable.
+​
 |Time|Multiplier|
 |---|---|
 |**6 months**|1x|
@@ -125,19 +124,19 @@ A user’s voting power is determined by 1) the amount of DBT they lock up with,
 |**24 months**|40x|
 |**36 months**|60x|
 |**48 months**|80x|
-
-
+​
+​
 ## Staking
-
+​
 Anyone may stake DBT to receive rewards which are determined by 1) the amount of DBT they stake, and 2) the amount of time they commit to locking their staked DBT. Staking curve to be released shortly.
-
-
+​
+​
 ## Genesis period
-
+​
 A six month period starting November 1, 2023 wherein all systems are on dev nets with elements off-chain and rewards are locked. Rewards will follow a daily vesting schedule thereafter. This period is required for testing of the network and all systems before implementation on a mainnet. 
-
+​
 A liquidity pool will be created on a Dex during the genesis period wherein 20% of price of a data credit will be paid towards burning tokens and the remaining 80% will be added to the pool to ensure some level of liquidity once genesis is over.
-
+​
 ## Device onboarding fee
-
-We propose a fee of $25 for each device to be borne by the manufacturer when the device is provisioned on the network.
+​
+We propose a fee of $25 for each device to be borne by the manufacturer, initially Dabba Inc, when the device is provisioned on the network.
