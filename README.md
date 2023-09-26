@@ -1,4 +1,5 @@
 
-#Documents for the Dabba network
+Documents for the Dabba network
+------------
 
-Initial files for the dabba network.
+[Dabba Tokenomics (DBT)](https://github.com/wifidabba/dabba/blob/production/Dabba%20Tokenomics%20(DBT).md)
