@@ -138,3 +138,6 @@ A six month period starting November 1, 2023 wherein all systems are on dev nets
 
 A liquidity pool will be created on a Dex during the genesis period wherein 20% of price of a data credit will be paid towards burning tokens and the remaining 80% will be added to the pool to ensure some level of liquidity once genesis is over.
 
+## Device onboarding fee
+
+We propose a fee of $25 for each device to be borne by the manufacturer when the device is provisioned on the network.

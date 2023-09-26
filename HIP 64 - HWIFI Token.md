@@ -63,13 +63,13 @@ For clarity, the initial emission schedule is as follows, numbers are rounded fo
 
 |Year|HWIFI at year start|HWIFI minted|
 |---|---|---|
-|1|2.5B*|24B|
-|2|27B|24B|
+|1|2.5B*|24.7B|
+|2|27.2B|24.7B|
 |3|52B|21B|
 |4|73B|21B|
-|5|94B|17B|
-|6|111B|17B|
-|7|129B|15B|
+|5|94B|17.8B|
+|6|111.9B|17.8B|
+|7|129.8B|15.1B|
 
 *_ 2.5B pre-mine
 
@@ -90,7 +90,7 @@ For clarity, the initial emission schedule is as follows, numbers are rounded fo
 |**Owner**|64%|Rewards for owning the hardware|
 |**Service provider**|20%|Rewards for operating the network|
 |**Mapper**|2%|Rewards for mapping the network|
-|**Validator**|4%|Rewards for verifying network transactions|
+|**Oracles**|4%|Rewards for providing required real world data|
 |**Stakers**|5%|Rewards for staking|
 
 
@@ -106,8 +106,10 @@ All rewards are shared equally for all entities within each bucket during the ge
 
 |Entity|Distribution|
 |---|---|
-|**1 Data credit**|1GB|
-|**Fixed price** ($)|0.012|
+|**Length of dc in bytes**|1024|
+|**Price of dc in USD** ($)|0.000000011|
+
+The initial price per GB of network data is suggested to be set at $0.012 per Gigabyte, which means that 1 Helium data credit, when used for data on Wifi  subDAO will convert to $0.000000011 per data packet of 1024 bytes.
 
 
 ## Governance structure
@@ -136,3 +138,6 @@ A six month period starting November 1, 2023 wherein all systems are on dev nets
 
 The subDAO sets the programmatic treasury formula in order to provide quotes to holders of DNT who wish to redeem their holdings for underlying HNT. This will follow the same process as the mobile subdao and is subject to the dao utility score.
 
+## Device onboarding fee
+
+We propose a fee of $25 for each device to be borne by the manufacturer when the device is provisioned on the network
