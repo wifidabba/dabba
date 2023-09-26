@@ -3,7 +3,7 @@
 The Dabba network uses a token incentivized protocol with the objective of driving capital into decentralised connectivity projects. **The network’s success hinges on its capacity to provide reliable, fast, and cost-effective connectivity through its decentralised Dabba installations**, thereby positively impacting the lives of millions while promoting community ownership of the connectivity infrastructure.
 ​
 ​
-![Dabba virtuous ](./virtuous-square.jpg)
+![Dabba virtuous cycle](./virtuous-square.jpg)
 ​
 ​
 ## Elements of the network
