@@ -3,7 +3,7 @@
 The Dabba network uses a token incentivized protocol with the objective of driving capital into decentralised connectivity projects. **The network’s success hinges on its capacity to provide reliable, fast, and cost-effective connectivity through its decentralised Dabba installations**, thereby positively impacting the lives of millions while promoting community ownership of the connectivity infrastructure.
 ​
 ​
-![Dabba virtuous cycle](./virtuous-square.jpg)
+![[virtous-square.jpg]]
 ​
 ​
 ## Elements of the network
@@ -63,7 +63,9 @@ We propose that 1% of total supply or 2.5B DBT are pre-mined at the launch of th
 |7|Lockup for genesis period|6 months|
 |8|Mint start date|Nov 1, 2023|
 ​
+​
 For clarity, the initial emission schedule is as follows, numbers are rounded for simplicity, a detailed sheet will be shared shortly:
+​
 ​
 |Year|DBT at year start|DBT minted|
 |---|---|---|
@@ -140,3 +142,8 @@ A liquidity pool will be created on a Dex during the genesis period wherein 20% 
 ## Device onboarding fee
 ​
 We propose a fee of $25 for each device to be borne by the manufacturer, initially Dabba Inc, when the device is provisioned on the network.
+​
+​
+## Dabba improvement proposals
+​
+When modifications are required periodically for improvements or changes to the tokenomics or other key factors, anyone can propose a Dabba Improvement proposal to the Dabba foundation which can then be presented to the community for a vote.
